@@ -3,5 +3,5 @@ __pycache__/
 .ipynb_checkpoints/
 venv/
 .env
-data/
-!data/README.md
+data/*.csv
+data/*.parquet
